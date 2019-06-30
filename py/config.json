@@ -1,0 +1,5 @@
+{
+    "dburi": "mongodb+srv://cluster0-lgyaj.gcp.mongodb.net/test",
+    "fbclientId": "XXXXXXXXXX",
+    "fbclientSecret": "XXXXXXXXXXXX"
+}
